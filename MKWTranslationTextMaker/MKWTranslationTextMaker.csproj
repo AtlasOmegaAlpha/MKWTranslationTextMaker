@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Sheets.v4" Version="1.66.0.3148" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\C-Sharp-Arabic-Reshaper\src\Arabic Reshaper\ArabicUnshapingLib\ArabicUnshapingLib.csproj" />
+  </ItemGroup>
+
+</Project>

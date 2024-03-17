@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MKWTranslationTextMaker": {
+      "commandName": "Project",
+      "commandLineArgs": "Arabic"
+    }
+  }
+}
