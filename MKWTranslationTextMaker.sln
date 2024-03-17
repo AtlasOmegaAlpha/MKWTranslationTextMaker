@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKWTranslationTextMaker", "MKWTranslationTextMaker\MKWTranslationTextMaker.csproj", "{AFE6F019-4F8A-42AC-A96B-3845520C601D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MKWTranslationTextMaker", "MKWTranslationTextMaker\MKWTranslationTextMaker.csproj", "{AFE6F019-4F8A-42AC-A96B-3845520C601D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabicUnshapingLib", "..\C-Sharp-Arabic-Reshaper\src\Arabic Reshaper\ArabicUnshapingLib\ArabicUnshapingLib.csproj", "{14B627C7-B299-41EF-87AC-F7CDBD31B775}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArabicUnshapingLib", "ArabicUnshapingLib\ArabicUnshapingLib.csproj", "{14B627C7-B299-41EF-87AC-F7CDBD31B775}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

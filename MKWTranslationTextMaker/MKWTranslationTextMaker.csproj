@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\C-Sharp-Arabic-Reshaper\src\Arabic Reshaper\ArabicUnshapingLib\ArabicUnshapingLib.csproj" />
+    <ProjectReference Include="..\ArabicUnshapingLib\ArabicUnshapingLib.csproj" />
   </ItemGroup>
 
 </Project>
